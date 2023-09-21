@@ -3,8 +3,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Beating CTFs on: PicoCTF, OverTheWire, Hacker101
--  **Learning :** Pentesting, C++ and Linux
+-  **Working :** Working as a CRM developer at Columbus
+-  **Learning :** Devops, AWS and cloud technologies.
 -  **Hobbies :** Music :headphones: | Coffee :coffee:
 -  **Ask me about :** Anything!, I'm happy to help :smile:
 
