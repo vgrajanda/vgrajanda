@@ -3,9 +3,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Working as a CRM developer at Columbus
--  **Learning :** Devops, AWS and cloud technologies.
--  **Hobbies :** Music :headphones: | Coffee :coffee:
+-  **Working :** Searching for a job.
+-  **Learning :** Devops.
+-  **Hobbies :** Music :headphones: | Coffee :coffee: | Bass player :guitar:
 -  **Ask me about :** Anything!, I'm happy to help :smile:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
