@@ -6,7 +6,7 @@
 -  **Working at:** I have my own Fruit Store.
 -  **Learning :** Mastering C++ coding.
 -  **Hobbies :** Bass player :guitar: | Code 💻 | Videogames 🎮
--  **Ask me about :** Anything!, I'm always up to help :smile:
+-  **Ask me about :** Anything!, I'm always up to help.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
