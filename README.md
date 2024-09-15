@@ -3,10 +3,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Searching for a job.
--  **Learning :** Devops.
+-  **Working at:** I have my own Fruit Store.
+-  **Learning :** Mastering C++ coding.
 -  **Hobbies :** Music :headphones: | Coffee :coffee: | Bass player :guitar:
--  **Ask me about :** Anything!, I'm happy to help :smile:
+-  **Ask me about :** Anything!, I'm always up to help :smile:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
